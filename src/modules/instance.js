@@ -9,7 +9,7 @@ const defaultState = {
   registrationOpen: true,
   safeDM: true,
   textlimit: 5000,
-  server: 'http://localhost:4040/',
+  server: 'http://brain.worm.pink/',
   theme: 'pleroma-dark',
   themeData: undefined,
   background: '/static/aurora_borealis.jpg',
