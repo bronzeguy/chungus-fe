@@ -96,7 +96,7 @@
     "postcss-loader": "^3.0.0",
     "raw-loader": "^0.5.1",
     "sass": "^1.17.3",
-    "sass-loader": "git://github.com/webpack-contrib/sass-loader",
+    "sass-loader": "^10",
     "selenium-server": "2.53.1",
     "semver": "^5.3.0",
     "serviceworker-webpack-plugin": "^1.0.0",
